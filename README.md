@@ -1,6 +1,6 @@
 # 실시간 날씨 검색 프로그램
 
-[![API 서버 상태](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/3yearscurry/d179f0445e5df8a51b85c45c5caeda35/raw/server-status.json)](https://github.com/3yearscurry/Busan_Bus_Arrival_Information/releases)
+[![API 서버 상태](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/3yearscurry/d179f0445e5df8a51b85c45c5caeda35/raw/server-status.json)](https://github.com/3yearscurry/Weather_Project/releases)
 
 실시간 날씨 정보를 조회하는 Windows 데스크톱 앱입니다.
 
