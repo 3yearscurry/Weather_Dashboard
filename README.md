@@ -9,7 +9,7 @@
 
 ## 다운로드
 
-[최신 릴리즈](https://github.com/3yearscurry/Weather_Project/releases/latest)에서 설치 파일을 받으실 수 있습니다.
+[최신 릴리즈](https://github.com/3yearscurry/Weather_Project/releases/latest)에서 설치 파일을 받을 수 있습니다.
 
 ## 스크린샷
 
