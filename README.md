@@ -6,6 +6,9 @@
 
 '나눔바른고딕' 폰트를 설치해야 글꼴이 제대로 표시됩니다.
 
+## 실행 충족 요건
+Windows NT 10.0 이상(Windows 10 이상)
+
 ## 다운로드
 
 [최신 릴리즈](https://github.com/3yearscurry/Weather_Project/releases/latest)에서 설치 파일을 받을 수 있습니다.
